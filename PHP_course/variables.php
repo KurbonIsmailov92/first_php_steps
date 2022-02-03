@@ -25,3 +25,4 @@ define('PI', 3.14);
 echo PI.'<br>';
 echo SORT_ASC. '<br>';
 echo PHP_INT_MAX. '<br>';
+echo PHP_INT_MIN. '<br>';
